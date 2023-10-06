@@ -22,7 +22,3 @@ How to start:
 3) in api/src/config/constants.js you need to change DB_CONNECTION_STRING with 'mongodb://localhost:27017/rent-auto' if you have mongoDB Compas or atlas to use on your pc data base
 
 4) in client/src/constants you can change BASE_URL= 'http://localhost:5000' to use local on port 5000 and on your pc
-
-Thank you :)
-
-Link to my Project: https://rent-auto-ecru.vercel.app/
